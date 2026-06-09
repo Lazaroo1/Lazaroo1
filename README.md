@@ -1,3 +1,7 @@
+<h1 align="left">Lázaro Díaz</h1>
+<p align="center">
+  Full Stack Engineer · CS student @ UVG, Guatemala 🇬🇹
+</p>
 
 <p align="center">
   Full Stack Engineer · CS student @ UVG, Guatemala 🇬🇹
