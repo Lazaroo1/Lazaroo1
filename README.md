@@ -1,4 +1,3 @@
-<h1 align="center">Hey, I'm Lázaro 👋</h1>
 
 <p align="center">
   Full Stack Engineer · CS student @ UVG, Guatemala 🇬🇹
@@ -8,11 +7,10 @@
 
 ### About me
 
-- 🎓 Computer Science Engineering student at **Universidad del Valle de Guatemala** — 6th semester
-- 💻 I build full-stack apps with modern tooling: REST APIs, SPAs, mobile apps, and data pipelines
-- 🎯 Interested in **frontend engineering**, **UX**, and **scalable backend architecture**
-- 🌱 Currently deepening my knowledge in distributed systems and cloud infrastructure
-- 🔍 Looking for **internship** or **junior developer** opportunities
+- Computer Science Engineering student at **Universidad del Valle de Guatemala** — 6th semester
+- I build full-stack apps with modern tooling: REST APIs, SPAs, mobile apps, and data pipelines
+- Interested in **frontend engineering**, **UX**, and **scalable backend architecture**
+- Currently deepening my knowledge in distributed systems and cloud infrastructure
 
 ---
 
