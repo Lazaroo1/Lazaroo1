@@ -3,10 +3,6 @@
   Full Stack Engineer · CS student @ UVG, Guatemala 🇬🇹
 </p>
 
-<p align="center">
-  Full Stack Engineer · CS student @ UVG, Guatemala 🇬🇹
-</p>
-
 ---
 
 ### About me
